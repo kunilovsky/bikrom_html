@@ -23,6 +23,12 @@
   color: #fff;
 }
 
+@media (max-width: 1024px) {
+  .navbar-brand img {
+    width: 150px;
+  }
+}
+
 body {
   font-family: 'Inter', sans-serif;
 }
