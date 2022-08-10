@@ -49,6 +49,10 @@ h2 {
   color: #fff;
 }
 
+.partners img {
+  max-width: 200px;
+}
+
 @media (max-width: 1024px) {
   section {
     margin: 20px 5px;
